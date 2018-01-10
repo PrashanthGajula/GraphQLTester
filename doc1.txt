@@ -6,6 +6,6 @@ five 5
 six 6
 seven 7
 eight 8
-9
-10
-11
+Nine 9
+Ten 10
+Eleven 11
