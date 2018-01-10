@@ -1,7 +1,7 @@
 one 1
 two 2
 three 3
-four 4
+Four 4
 five 5
 six 6
 seven 7
@@ -9,3 +9,4 @@ eight 8
 Nine 9
 Ten 10
 Eleven 11
+Twelve 12
